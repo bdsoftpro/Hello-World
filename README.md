@@ -10,7 +10,7 @@ This repo contains the example code for the blog post:
 
 To run the example:
 
-- `git clone https://github.com/master-atul/Hello-World`
+- `git clone https://github.com/bdsoftpro/Hello-World`
 - `npm install`
 - `npm run build` //This is mostly not needed. But just in case
 - `node index.js`
